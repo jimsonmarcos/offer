@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className="flex flex-1 justify-center min-h-screen bg-[#2B2D42] relative">
+    <div className="flex flex-1 justify-center min-h-screen bg-[#2B2D42] relative overflow-hidden">
       <div className="absolute w-[720px] h-[720px] rounded-[720px] bg-[#0083FE] top-[-500px] left-[13%] blur-[350px] flex justify-center z-10">
         <div className="w-[500px] h-[500px] rounded-[500px] bg-[#0083FE] opacity-50 self-center blur-[150px] z-10">
         </div>
