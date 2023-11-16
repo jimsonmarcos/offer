@@ -47,13 +47,13 @@ export default function Home() {
               <div className="mt-10">
                 <a
                   href="/"
-                  className="py-[21px] px-[52px] inline-block druk-wide-bold text-white text-base bg-[#FF632C] rounded-[30px]"
+                  className="py-[21px] px-[52px] inline-block druk-wide-bold text-white text-base bg-[#FF632C] rounded-[30px] border border-[#FF632C]"
                 >
                   Talk to Us
                 </a>
                 <a
                   href="/"
-                  className="py-[21px] px-[52px] inline-block druk-wide-bold text-white text-base border ms-5 border-[#0083FE] rounded-[30px]"
+                  className="py-[21px] px-[22px] inline-block druk-wide-bold text-white text-base border ms-5 border-[#0083FE] rounded-[30px]"
                 >
                   See Portfolio
                 </a>
